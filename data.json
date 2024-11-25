@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "An app to generate random quotes.",
+      "technologies": ["JavaScript", "CSS", "HTML"],
+      "live_link": "https://cgdouthitt.github.io/techdegree-project-1/",
+      "github_link": "https://github.com/cgdouthitt/techdegree-project-1",
+      "image_urls": ["/project1/main.png","/project1/alt1.png","/project1/alt2.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "Student List",
+      "description": "An app to display students with paging and filtering.",
+      "technologies": ["JavaScript", "CSS", "HTML"],
+      "live_link": "https://cgdouthitt.github.io/techdegree-project-2/",
+      "github_link": "https://github.com/cgdouthitt/techdegree-project-2",
+      "image_urls": ["/project2/main.png","/project2/alt1.png","/project2/alt2.png","/project2/alt3.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Register for Full Stack Conference",
+      "description": "An app for registering for a full stack conference.",
+      "technologies": ["JavaScript", "CSS", "HTML"],
+      "live_link": "https://cgdouthitt.github.io/techdegree-project-3/",
+      "github_link": "https://github.com/cgdouthitt/techdegree-project-3",
+      "image_urls": ["/project3/main.png","/project3/alt1.png","/project3/alt2.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "Phrase Hunter",
+      "description": "A game to guess the hidden phrase.",
+      "technologies": ["JavaScript", "CSS", "HTML"],
+      "live_link": "https://cgdouthitt.github.io/techdegree-project-4/",
+      "github_link": "https://github.com/cgdouthitt/techdegree-project-4",
+      "image_urls": ["/project4/main.png","/project4/alt1.png","/project4/alt2.png","/project4/alt3.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "Employee Directory API",
+      "description": "An app that displays employee directory via API request with filtering and card toggle.",
+      "technologies": ["JavaScript", "CSS", "HTML"],
+      "live_link": "https://cgdouthitt.github.io/techdegree-project-5/",
+      "github_link": "https://github.com/cgdouthitt/techdegree-project-5",
+      "image_urls": ["/project5/main.png","/project5/alt1.png","/project5/alt2.png","/project5/alt3.png"]
+    }
+  ]
+}
