@@ -1,11 +1,14 @@
 extends layout.pug
 
 block content
+
+  nav.nav
+    a(href='/')
+      span &larr;
+      |  Back
+
+  article.portfolio-intro
+
     h1= `Server Error`
     h2= `Error status code: ${err.status} - Server Error`
-    p.error-p= `Human friendly error message: ${err.message}`
-
-    nav.nav
-      a(href='/')
-        span &larr;
-        |  Back
+    p.error-p= `Something went wrong: ${err.message}`
