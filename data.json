@@ -52,7 +52,16 @@
       "technologies": ["JavaScript", "CSS", "HTML"],
       "live_link": "https://techdegree-project-7-swart.vercel.app/",
       "github_link": "https://github.com/cgdouthitt/techdegree-project-7",
-      "image_urls": ["/images/project7/main.png","/images/project7/alt1.png"]
+      "image_urls": ["/images/project7/main.png","/images/project7/alt1.png","/images/project7/alt2.png"]
+    },
+    {
+      "id": 6,
+      "project_name": "Library Managment System",
+      "description": "An app to manager library inventory.",
+      "technologies": ["JavaScript", "CSS", "HTML"],
+      "live_link": "https://cgdouthitt.github.io/techdegree-project-8/",
+      "github_link": "https://github.com/cgdouthitt/techdegree-project-8",
+      "image_urls": ["/images/project8/main.png","/images/project8/alt1.png"]
     }
   ]
 }
