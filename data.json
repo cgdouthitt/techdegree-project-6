@@ -61,7 +61,7 @@
       "technologies": ["JavaScript", "CSS", "HTML"],
       "live_link": "https://techdegree-project-8-js4m.onrender.com/books",
       "github_link": "https://github.com/cgdouthitt/techdegree-project-8",
-      "image_urls": ["/images/project8/main.png"]
+      "image_urls": ["/images/project8/main.png","/images/project8/alt1.png","/images/project8/alt2.png"]
     }
   ]
 }
