@@ -58,10 +58,20 @@
       "id": 6,
       "project_name": "Library Managment System",
       "description": "An app to manage library inventory.",
-      "technologies": ["JavaScript", "CSS", "HTML"],
+      "technologies": ["JavaScript", "CSS", "HTML", "Vite", "Express", "SQLite"],
       "live_link": "https://techdegree-project-8-js4m.onrender.com/books",
       "github_link": "https://github.com/cgdouthitt/techdegree-project-8",
       "image_urls": ["/images/project8/main.png","/images/project8/alt1.png","/images/project8/alt2.png"]
+    }
+    ,
+    {
+      "id": 7,
+      "project_name": "Course Creation and Managment System",
+      "description": "Built and deployed a full-stack course management application using React (Vite), Express, Sequelize, and SQLite. Frontend deployed on Vercel, backend eployed on Render. Implements authentication, protected routes, and full CRUD functionality.",
+      "technologies": ["JavaScript", "CSS", "HTML", "Vite", "Express", "SQLite"],
+      "live_link": "https://techdegree-project-10.vercel.app/",
+      "github_link": "https://github.com/cgdouthitt/techdegree-project-10",
+      "image_urls": ["/images/project10/main.png","/images/project10/alt1.png","/images/project10/alt2.png","/images/project10/alt3.png"]
     }
   ]
 }
