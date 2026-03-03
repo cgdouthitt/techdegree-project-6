@@ -1,4 +1,4 @@
-Portfolio Website – Express & Pug
+# **Portfolio Website – Express & Pug**
 
 A dynamic portfolio website built with Node.js, Express, and Pug.
 This application renders project data from a JSON file and displays individual project pages using dynamic routing.
@@ -19,7 +19,7 @@ This application renders project data from a JSON file and displays individual p
 
 - Organized Express routing structure
 
-Tech Stack:
+🛠 Tech Stack:
 
 - Node.js
 
