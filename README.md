@@ -53,6 +53,24 @@ This application renders project data from a JSON file and displays individual p
 ## 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/cgdouthitt/Profile.git
+cd Profile
+```
+
+## 2. Install Dependencies
+
+```
+npm install
+```
+
+## 3. Start the Server
+
+```
+node app.js
+```
+
+The app will run on:
+
+```
+http://localhost:3000
 ```
