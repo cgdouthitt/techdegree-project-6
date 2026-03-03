@@ -47,3 +47,12 @@ This application renders project data from a JSON file and displays individual p
 │   ├── error.pug
 │   └── page-not-found.pug
 ```
+
+## ⚙️ Installation & Setup
+
+## 1. Clone the Repository
+
+```
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
