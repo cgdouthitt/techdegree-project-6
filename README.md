@@ -33,15 +33,17 @@ This application renders project data from a JSON file and displays individual p
 
 ## 📂 Project Structure:
 
+```
 .
 ├── app.js
 ├── data.json
 ├── package.json
 ├── public/
-│ └── (static assets)
+│   └── (static assets)
 ├── views/
-│ ├── index.pug
-│ ├── about.pug
-│ ├── project.pug
-│ ├── error.pug
-│ └── page-not-found.pug
+│   ├── index.pug
+│   ├── about.pug
+│   ├── project.pug
+│   ├── error.pug
+│   └── page-not-found.pug
+```
