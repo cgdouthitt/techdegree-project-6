@@ -1,9 +1,32 @@
-# techdegree-project-6
+Portfolio Website – Express & Pug
 
-Live site for project display
+A dynamic portfolio website built with Node.js, Express, and Pug.
+This application renders project data from a JSON file and displays individual project pages using dynamic routing.
 
-CSS customs:
-.sidebar p color changed to #bfbcbc
-.sidebar a color changed to #bfbcbc
-.cell img added transition zoom on hover
-.btn-link:hover added opacity: .8
+Features:
+
+- Dynamic project rendering from a data.json file
+
+- Clean server-side rendering with Pug templates
+
+- Individual project detail pages
+
+- Custom 404 page handling
+
+- Global error handling middleware
+
+- Static asset serving (CSS, images, JS)
+
+- Organized Express routing structure
+
+Tech Stack:
+
+- Node.js
+
+- Express
+
+- Pug (Template Engine)
+
+- HTML5 / CSS3
+
+- JavaScript
