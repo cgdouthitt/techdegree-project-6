@@ -74,3 +74,23 @@ The app will run on:
 ```
 http://localhost:3000
 ```
+
+## 🧠 How It Works
+
+- Project data is stored in data.json.
+
+- The home route (/) passes the projects array into the Pug template.
+
+- Dynamic routing (/projects/:id) renders individual project pages.
+
+- Middleware handles:
+  - JSON parsing
+
+  - URL encoding
+
+  - Static file serving
+
+- Custom error handlers manage:
+  - 404 errors
+
+  - Global server errors
