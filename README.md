@@ -3,7 +3,7 @@
 A dynamic portfolio website built with Node.js, Express, and Pug.
 This application renders project data from a JSON file and displays individual project pages using dynamic routing.
 
-🚀 Features:
+## 🚀 Features:
 
 - Dynamic project rendering from a data.json file
 
@@ -19,7 +19,7 @@ This application renders project data from a JSON file and displays individual p
 
 - Organized Express routing structure
 
-🛠 Tech Stack:
+## 🛠 Tech Stack:
 
 - Node.js
 
@@ -30,3 +30,18 @@ This application renders project data from a JSON file and displays individual p
 - HTML5 / CSS3
 
 - JavaScript
+
+## 📂 Project Structure:
+
+.
+├── app.js
+├── data.json
+├── package.json
+├── public/
+│ └── (static assets)
+├── views/
+│ ├── index.pug
+│ ├── about.pug
+│ ├── project.pug
+│ ├── error.pug
+│ └── page-not-found.pug
